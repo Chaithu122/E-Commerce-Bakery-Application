@@ -20,6 +20,8 @@ public class PageController {
 	@Autowired
 	private ProductService pservice;
 	
+	
+	
 	@GetMapping("/shop")
 	public String shop(Model model) {
 		model.addAttribute("categories", cservice.getallCategories());

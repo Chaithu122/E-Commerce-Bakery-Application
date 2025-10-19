@@ -88,11 +88,13 @@ public class AdminController {
 		cservice.saveCategory(c);
 		return "redirect:/admin/categories";
 	}
-	@GetMapping("/admin/categories/delete{id}")
+	@GetMapping("/admin/categories/delete/{id}")
 	public String deleteCategory(@PathVariable("id") int id) {
 		cservice.deleteById(id);
 		return "redirect:/admin/categories";
 	}
+	
+
 	@GetMapping("/admin/categories/update/{id}")
 	public String updateCategory(@PathVariable("id") int id,Model model) {
 		Optional<Category> category=cservice.fetchById(id);
@@ -145,6 +147,8 @@ public class AdminController {
 		pservice.deleteById(id);
 		return "redirect:/admin/products";
 	}
+	
+
 	@GetMapping("/admin/product/update/{id}")
 	public String updateProduct(@PathVariable("id") long id,Model model) {
 		Product pro=pservice.fetchById(id).get();
