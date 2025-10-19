@@ -28,3 +28,21 @@ The Bakery E-Commerce project is deployed and accessible at the link below:
 
 - 🧼 **Clean Code & Layered Architecture**: Follows MVC, service, repository pattern for maintainability.
 
+  ## 🛠 Technologies Used
+- **Backend**: Core Java, Spring Boot
+- **Frontend**: HTML, CSS, Bootstrap
+- **Database**: MySQL
+- **Tools**:Maven, Git & GitHub
+
+  ## 📸 Screenshots
+  ## 🏠 Home Page
+  <img src="https://github.com/user-attachments/assets/4578de2b-defd-4a53-bd6e-715810ab1e76" alt="homepage1"/>
+  <img src="https://github.com/user-attachments/assets/a5f2a6ca-6d9b-4012-957f-5e554cc2cd32" alt="homepage2"/>
+  <img src="https://github.com/user-attachments/assets/34f16dd7-a2d4-4dc8-9f53-9632ef397485" alt="homepage3"/>
+
+
+
+
+
+
+
