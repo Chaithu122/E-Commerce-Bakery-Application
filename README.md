@@ -1,0 +1,5 @@
+# 🍰 E-Commerce Bakery Application
+## 📖 Description
+**E-Commerce Bakery Application** is a modern, full-stack web application designed to provide a seamless online shopping experience for bakery products. Users can effortlessly browse through categories, explore detailed product information, add items to their cart, and complete orders with ease. The platform also features an **admin panel** that allows administrators to efficiently manage products and categories by adding, updating, or deleting them. Built with a focus on **responsive design, performance, and usability**, this project demonstrates practical expertise in **frontend and backend development, database management, and full-stack integration**.
+## 🎯 Objective
+The objective of the **E-Commerce Bakery Application** is to provide a convenient and seamless online platform for users to browse and order bakery products, while enabling administrators to efficiently manage products and categories. This project aims to improve user experience, streamline bakery operations, and showcase practical full-stack development skills.
