@@ -28,17 +28,103 @@ The Bakery E-Commerce project is deployed and accessible at the link below:
 
 - 🧼 **Clean Code & Layered Architecture**: Follows MVC, service, repository pattern for maintainability.
 
-  ## 🛠 Technologies Used
-- **Backend**: Core Java, Spring Boot
-- **Frontend**: HTML, CSS, Bootstrap
-- **Database**: MySQL
-- **Tools**:Maven, Git & GitHub
+## 🛠 Technologies Used
+  
+ - **Backend**: Core Java, Spring Boot
+ - **Frontend**: HTML, CSS, Bootstrap
+ - **Database**: MySQL
+ - **Tools**:Maven, Git & GitHub
 
   ## 📸 Screenshots
   ## 🏠 Home Page
   <img src="https://github.com/user-attachments/assets/4578de2b-defd-4a53-bd6e-715810ab1e76" alt="homepage1"/>
   <img src="https://github.com/user-attachments/assets/a5f2a6ca-6d9b-4012-957f-5e554cc2cd32" alt="homepage2"/>
   <img src="https://github.com/user-attachments/assets/34f16dd7-a2d4-4dc8-9f53-9632ef397485" alt="homepage3"/>
+
+  ## 🛒 Shop Page
+  
+  <img src="https://github.com/user-attachments/assets/6462f5f9-2a37-4b1b-8bfb-071f45bf855b" alt="shoppage"/>
+
+  ## 👀 View Product Page
+
+  The **View Product** section shows complete details of a selected bakery item.  
+When a user clicks on any product from the shop page, they are redirected to this page.
+
+  ### 📌 What is shown on this page
+ - 🖼 Large product image
+ - 📝 Product title & description
+ - 💰 Price & offer
+ - 📦 Quantity selector
+ - 🛒 **Add to Cart** & ❤ **Add to Wishlist** buttons
+ - 🔙 Back to Shop link/button
+
+  <img src="https://github.com/user-attachments/assets/dfa5a823-aa13-4b79-83fb-a9a8f7f99501 " alt="viewproduct"/>
+
+  ## 👥 Customer Information Page
+
+  The **Customer Information** page collects details about the user before checkout.  
+It ensures accurate delivery and contact information for bakery orders.
+
+  ### 📌 Fields Included
+
+  - 📝 **Full Name** – Customer's name  
+  - ✉ **Email Address** – For order confirmation  
+  - 📞 **Phone Number** – For delivery contact  
+  - 🏠 **Address** – Street, city, zip code  
+  - 🏷 **Special Instructions** – Optional notes for delivery
+
+  <img src="https://github.com/user-attachments/assets/8a857e06-d310-42a0-b37b-96d471ff2767" alt="customerpage"/>
+
+  ## 📝 Register Page
+
+  The **Register Page** allows new customers to create an account in the bakery application.  
+This helps in saving customer details for faster checkout, order tracking, and personalized offers.
+
+ ### 📌 Fields Included
+
+ - 🧑 **Full Name** – Customer's name  
+ - ✉ **Email Address** – Used for login and order confirmation  
+ - 🔑 **Password** – Secure password input  
+ - 🔑 **Confirm Password** – To ensure password is correct  
+ - 📞 **Phone Number** – Optional, for delivery notifications
+
+   <img src="https://github.com/user-attachments/assets/75c7a912-8398-4d56-8d89-31634bd75e30" alt="registerpage"/>
+
+    ## 🛠 Admin Page
+
+   The **Admin Page** allows the bakery owner or staff to **manage products, orders, and customers**.  
+    It is accessible only to authorized users (admin role).
+
+   ### 📌 Features
+
+ - 📦 **Manage Products**
+ - Add new bakery products (cakes, cookies, pastries, breads)  
+ - Update product details (name, price, image, description)  
+ - Delete products from the catalog
+
+ - 🛍 **Manage Orders**
+ - View all customer orders  
+ - Update order status (Pending, Processing, Delivered, Cancelled)  
+ - Filter orders by date or status
+
+ - 👥 **Manage Customers**
+ - View customer details and purchase history  
+ - Edit customer information if required
+ 
+    <img src="https://github.com/user-attachments/assets/ce14a536-d1b2-455a-a3eb-759b812e195d" alt="adminpage"/>
+
+   
+
+
+
+    
+
+
+
+
+
+
+
 
 
 
