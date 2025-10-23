@@ -113,6 +113,26 @@ This helps in saving customer details for faster checkout, order tracking, and p
  
     <img src="https://github.com/user-attachments/assets/ce14a536-d1b2-455a-a3eb-759b812e195d" alt="adminpage"/>
 
+   ## 🗂 Categories Section
+
+   The **Categories Section** helps users browse bakery products by type.  
+   It improves navigation and makes it easier to find specific items like cakes, cookies, breads, and pastries.
+
+   ### 📌 Features
+- Displays all product categories  
+- Each category can show an **icon or image** representing it  
+- Clicking a category filters the products on the **Shop Page**  
+- Supports **dynamic addition** of new categories
+
+  <img src="https://github.com/user-attachments/assets/97ca98c1-c471-40c5-bfad-d0deb743fbb3" alt="addcategorypage"/>
+
+
+
+
+
+
+
+
    
 
 
