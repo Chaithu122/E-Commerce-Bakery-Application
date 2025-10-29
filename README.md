@@ -95,36 +95,99 @@ This helps in saving customer details for faster checkout, order tracking, and p
    The **Admin Page** allows the bakery owner or staff to **manage products, orders, and customers**.  
     It is accessible only to authorized users (admin role).
 
-   ### 📌 Features
+    ### 📌 Features
 
- - 📦 **Manage Products**
- - Add new bakery products (cakes, cookies, pastries, breads)  
- - Update product details (name, price, image, description)  
- - Delete products from the catalog
+   ## 📦 **Manage Products**
+  -  Add new bakery products (cakes, cookies, pastries, breads)  
+  -  Update product details (name, price, image, description)  
+  -  Delete products from the catalog
 
- - 🛍 **Manage Orders**
- - View all customer orders  
- - Update order status (Pending, Processing, Delivered, Cancelled)  
- - Filter orders by date or status
+     ##  🛍 **Manage Orders**
+  -   View all customer orders  
+  -   Update order status (Pending, Processing, Delivered, Cancelled)  
+  -   Filter orders by date or status
 
- - 👥 **Manage Customers**
- - View customer details and purchase history  
- - Edit customer information if required
+      ## 👥 **Manage Customers**
+  -  View customer details and purchase history  
+  -  Edit customer information if required
  
     <img src="https://github.com/user-attachments/assets/ce14a536-d1b2-455a-a3eb-759b812e195d" alt="adminpage"/>
 
-   ## 🗂 Categories Section
+   ##    🗂 Categories Section
 
    The **Categories Section** helps users browse bakery products by type.  
    It improves navigation and makes it easier to find specific items like cakes, cookies, breads, and pastries.
 
    ### 📌 Features
-- Displays all product categories  
-- Each category can show an **icon or image** representing it  
-- Clicking a category filters the products on the **Shop Page**  
-- Supports **dynamic addition** of new categories
+   -  Displays all product categories  
+   -  Each category can show an **icon or image** representing it  
+   -  Clicking a category filters the products on the **Shop Page**  
+   -  Supports **dynamic addition** of new categories
 
-  <img src="https://github.com/user-attachments/assets/97ca98c1-c471-40c5-bfad-d0deb743fbb3" alt="addcategorypage"/>
+   <img src="https://github.com/user-attachments/assets/97ca98c1-c471-40c5-bfad-d0deb743fbb3" alt="addcategorypage"/>
+   
+   ## 📦 Add a Product
+
+   ## 🔐 Login as Admin
+
+   -  Open the application in browser
+
+   -  Login using admin credentials
+
+  ## 🧭 Go to Product Management
+
+   - Open Dashboard
+
+   - Navigate to 📦 Products → ➕ Add Product
+
+   ## 📝 Enter Product Details
+
+   🏷 Product Name
+
+  📂 Choose Category
+
+  💰 Product Price
+
+  📄 Short & Full Description
+
+  📦 Stock / Quantity
+
+  🖼 Upload Product Image (PNG/JPG)
+
+  ## 💾 Save Product
+
+  Click Save / Add Product
+
+  ✅ Validations run for all mandatory fields
+
+  🗃 Product stored into Database
+
+  ## 👀 Verify Product
+
+ 🛍 Product now visible on Storefront
+
+ ✅ Listed under the selected Category
+ 
+ 
+ <img src="https://github.com/user-attachments/assets/723daab1-8f60-4530-9142-2de00abf71cc" alt="addproduct"/>
+ <img src="https://github.com/user-attachments/assets/63ba8441-f36b-40e7-960f-f94941b85152" alt="add"/>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
