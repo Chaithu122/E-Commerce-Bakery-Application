@@ -172,6 +172,24 @@ This helps in saving customer details for faster checkout, order tracking, and p
  <img src="https://github.com/user-attachments/assets/723daab1-8f60-4530-9142-2de00abf71cc" alt="addproduct"/>
  <img src="https://github.com/user-attachments/assets/63ba8441-f36b-40e7-960f-f94941b85152" alt="add"/>
 
+ ## 🙏 Acknowledgements
+
+This project was developed as part of my learning practice by referring to official documentation, developer communities, and publicly available resources.
+
+## ✍ Author
+
+- Name: Krishna Chaithanya Pigilapu
+- Role: Java Full Stack Developer (Fresher)
+- Tech Skills: Java · Spring Boot · HTML · CSS · JavaScript · React · SQL
+- GitHub:https://github.com/Chaithu122
+- LinkedIn:https://linkedin.com/in/krishna-chaithanya-pigilapu-655563349
+
+
+
+
+
+
+
 
 
  
